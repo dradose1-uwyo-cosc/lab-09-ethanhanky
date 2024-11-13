@@ -1,12 +1,9 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Ethan Hankel]
+## [Lab 9]
+## [Submission date: 11/12/24]
 ## Worked with/sources 
-* example
-* example
-* example
-* example
+* Classes powerpoint
+* Chat GPT
 ## Project Quirks/ Things that don't work
-* example
-* example
-* example
+* I commonly use the wrong variable which leades to my code not working as suspected
+* 
